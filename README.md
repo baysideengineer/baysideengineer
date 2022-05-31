@@ -2,3 +2,4 @@
   #### Reading list:
   [▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░] 53% | Docker <br>[▒▒▒▒▒▒░░░░░░░░░░░░░░] 26% | Git <br>[▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 50% | Why we sleep <br>[▒▒▒▒▒░░░░░░░░░░░░░░░] 24% | HTML <br>
   > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
+  
