@@ -3,25 +3,3 @@
 
   > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% &nbsp;|&nbsp; Docker
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 11% &nbsp;|&nbsp; UML 2.0
-  
-  > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% &nbsp;|&nbsp; Docker
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 11% &nbsp;|&nbsp; UML 2.0
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% &nbsp;|&nbsp; Git
-  
-  > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% &nbsp;|&nbsp; Docker
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 11% &nbsp;|&nbsp; UML 2.0
-  
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% &nbsp;|&nbsp; Git
-  
-  > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
-  
