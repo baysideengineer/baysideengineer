@@ -8,5 +8,7 @@
   
   [▒▒▒▒▒▒░░░░░░░░░░░░░░] 30% &nbsp;|&nbsp; CSS
   
+  [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% &nbsp;|&nbsp; Git
+  
   > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
