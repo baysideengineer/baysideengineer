@@ -4,5 +4,7 @@
   
   [▒░░░░░░░░░░░░░░░░░░░] 5% &nbsp;|&nbsp; HTML
   
+  [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; Docker
+  
   > Book updates via [cloud_shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
