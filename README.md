@@ -26,15 +26,15 @@
         <stop offset="1" stop-opacity=".1"/>
       </linearGradient>
       <rect rx="4" x="0" width="90.0" height="20" fill="#333"/>
-      <rect rx="4" x="0" width="55" height="20" fill="red"/>
+      <rect rx="4" x="0" width="45" height="20" fill="red"/>
       <rect rx="4" width="90.0" height="20" fill="url(#a)"/>
       <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="45.0" y="14">
-          55%%
+          45%%
         </text>
       </g>
     </svg>
-   55% &nbsp;|&nbsp; Docker
+   45% &nbsp;|&nbsp; Docker
   
   
     <svg width="90.0" height="20" xmlns="http://www.w3.org/2000/svg">
