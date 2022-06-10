@@ -13,7 +13,7 @@
       <rect rx="4" width="90.0" height="20" fill="url(#a)"/>
       <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="45.0" y="14">
-          25%%
+          25
         </text>
       </g>
     </svg>
@@ -30,7 +30,7 @@
       <rect rx="4" width="90.0" height="20" fill="url(#a)"/>
       <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="45.0" y="14">
-          45%%
+          45
         </text>
       </g>
     </svg>
@@ -47,7 +47,7 @@
       <rect rx="4" width="90.0" height="20" fill="url(#a)"/>
       <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="45.0" y="14">
-          30%%
+          30
         </text>
       </g>
     </svg>
@@ -64,7 +64,7 @@
       <rect rx="4" width="90.0" height="20" fill="url(#a)"/>
       <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="45.0" y="14">
-          25%%
+          25
         </text>
       </g>
     </svg>
