@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  
+  ![](
     <svg width="90.0" height="20" xmlns="http://www.w3.org/2000/svg">
       <linearGradient id="a" x2="0" y2="100%%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".2"/>
@@ -17,9 +17,9 @@
         </text>
       </g>
     </svg>
-   25% &nbsp;|&nbsp; HTML
+  ) 25% &nbsp;|&nbsp; HTML
   
-  
+  ![](
     <svg width="90.0" height="20" xmlns="http://www.w3.org/2000/svg">
       <linearGradient id="a" x2="0" y2="100%%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".2"/>
@@ -34,9 +34,9 @@
         </text>
       </g>
     </svg>
-   45% &nbsp;|&nbsp; Docker
+  ) 45% &nbsp;|&nbsp; Docker
   
-  
+  ![](
     <svg width="90.0" height="20" xmlns="http://www.w3.org/2000/svg">
       <linearGradient id="a" x2="0" y2="100%%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".2"/>
@@ -51,9 +51,9 @@
         </text>
       </g>
     </svg>
-   30% &nbsp;|&nbsp; CSS
+  ) 30% &nbsp;|&nbsp; CSS
   
-  
+  ![](
     <svg width="90.0" height="20" xmlns="http://www.w3.org/2000/svg">
       <linearGradient id="a" x2="0" y2="100%%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".2"/>
@@ -68,7 +68,7 @@
         </text>
       </g>
     </svg>
-   25% &nbsp;|&nbsp; Git
+  ) 25% &nbsp;|&nbsp; Git
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
