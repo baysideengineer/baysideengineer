@@ -2,11 +2,19 @@
 
   #### Reading list
   
+  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░] 70% &nbsp;|&nbsp; CSS
+  
   [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; Datastructure
   
   [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; Git
   
-  [▒▒▒░░░░░░░░░░░░░░░░░] 12% &nbsp;|&nbsp; HTML
+  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░] 95% &nbsp;|&nbsp; HTML
+  
+  [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 42% &nbsp;|&nbsp; Node.js
+  
+  [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 34% &nbsp;|&nbsp; Sleep
+  
+  [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 45% &nbsp;|&nbsp; Swift
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
