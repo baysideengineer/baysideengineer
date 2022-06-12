@@ -4,8 +4,6 @@
   
   [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; Datastructure
   
-  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░] 95% &nbsp;|&nbsp; Docker
-  
   [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; Git
   
   [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% &nbsp;|&nbsp; HTML
