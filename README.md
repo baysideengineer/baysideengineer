@@ -16,5 +16,7 @@
   
   [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 45% &nbsp;|&nbsp; Swift
   
+  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; UML 2.0
+  
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
