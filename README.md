@@ -6,7 +6,7 @@
   
   [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; Git
   
-  [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% &nbsp;|&nbsp; HTML
+  [▒▒▒░░░░░░░░░░░░░░░░░] 12% &nbsp;|&nbsp; HTML
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
