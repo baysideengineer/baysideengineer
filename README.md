@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; CSS
+  [▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░] 65% &nbsp;|&nbsp; CSS
   
   [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; Datastructure
   
