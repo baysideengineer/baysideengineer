@@ -2,23 +2,7 @@
 
   #### Reading list
   
-  [▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░] 65% &nbsp;|&nbsp; CSS
-  
-  [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% &nbsp;|&nbsp; Clean Code
-  
-  [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; Datastructure
-  
-  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; Git
-  
-  [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 35% &nbsp;|&nbsp; HTML
-  
-  [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 45% &nbsp;|&nbsp; Node.js
-  
-  [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 34% &nbsp;|&nbsp; Sleep
-  
-  [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 45% &nbsp;|&nbsp; Swift
-  
-  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; UML 2.0
+  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░] 93% &nbsp;|&nbsp; Docker
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
