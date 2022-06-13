@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░] 93% &nbsp;|&nbsp; Docker
+  [▒▒▒░░░░░░░░░░░░░░░░░] 15% &nbsp;|&nbsp; Docker
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
