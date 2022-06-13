@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  [▒▒▒▒░░░░░░░░░░░░░░░░] 19% &nbsp;|&nbsp; Docker
+  [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 42% &nbsp;|&nbsp; Docker
   
   [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; HTML
   
