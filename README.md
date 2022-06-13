@@ -4,8 +4,6 @@
   
   [▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░] 65% &nbsp;|&nbsp; CSS
   
-  [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% &nbsp;|&nbsp; Clean Code
-  
   [▒▒▒▒░░░░░░░░░░░░░░░░] 20% &nbsp;|&nbsp; Datastructure
   
   [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░] 75% &nbsp;|&nbsp; Git
