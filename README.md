@@ -2,6 +2,8 @@
 
   #### Reading list
   
+  [▒▒░░░░░░░░░░░░░░░░░░] 6% &nbsp;|&nbsp; A short history of nearly everything
+  
   [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 42% &nbsp;|&nbsp; Docker
   
   [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; HTML
