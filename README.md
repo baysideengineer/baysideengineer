@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  [▒▒░░░░░░░░░░░░░░░░░░] 8% &nbsp;|&nbsp; A short history of nearly everything
+  [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; A short history of nearly everything
   
   [▒▒░░░░░░░░░░░░░░░░░░] 10% &nbsp;|&nbsp; HTML
   
