@@ -2,7 +2,7 @@
 
   #### Reading list
   
-  [▒▒▒░░░░░░░░░░░░░░░░░] 11% &nbsp;|&nbsp; A short history of nearly everything
+  [▒▒▒░░░░░░░░░░░░░░░░░] 12% &nbsp;|&nbsp; A short history of nearly everything
   
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
   
