@@ -4,8 +4,6 @@
 
   ```
   [▒▒▒░░░░░░░░░░░░░░░░░] 13% | A short history of nearly everything
-  
-  [▒░░░░░░░░░░░░░░░░░░░] 5% | The Linux Command Line
   ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
