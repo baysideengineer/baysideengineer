@@ -5,6 +5,8 @@
   ```
   [▒▒▒░░░░░░░░░░░░░░░░░] 13% | A short history of nearly everything
   
+  [▒▒░░░░░░░░░░░░░░░░░░] 10% | Go - The practice book
+  
   [▒▒░░░░░░░░░░░░░░░░░░] 7% | Linux the command line
   
   [▒▒░░░░░░░░░░░░░░░░░░] 9% | Reactive applications with Akka.NET
