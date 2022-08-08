@@ -3,7 +3,7 @@
   #### Reading list
 
   ```
-  [▒▒▒░░░░░░░░░░░░░░░░░] 13% | A short history of nearly everything
+  [▒▒▒░░░░░░░░░░░░░░░░░] 14% | A short history of nearly everything
   
   [▒▒░░░░░░░░░░░░░░░░░░] 10% | Go - The practice book
   
