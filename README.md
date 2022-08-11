@@ -8,6 +8,8 @@
   [▒▒░░░░░░░░░░░░░░░░░░] 10% | Go - The practice book
   
   [▒▒░░░░░░░░░░░░░░░░░░] 7% | Linux the command line
+  
+  [▒▒░░░░░░░░░░░░░░░░░░] 9% | Reactive applications with Akka.NET
   ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
