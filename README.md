@@ -9,6 +9,8 @@
   
   [▒▒░░░░░░░░░░░░░░░░░░] 7% | Linux the command line
   
+  [▒▒▒▒░░░░░░░░░░░░░░░░] 16% | Node OPCUA by example
+  
   [▒▒░░░░░░░░░░░░░░░░░░] 9% | Reactive applications with Akka.NET
   ```
 
