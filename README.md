@@ -9,9 +9,7 @@
   
   [▒▒░░░░░░░░░░░░░░░░░░] 7% | Linux the command line
   
-  [▒▒▒▒░░░░░░░░░░░░░░░░] 16% | Node OPCUA by example
-  
-  [▒▒░░░░░░░░░░░░░░░░░░] 9% | Reactive applications with Akka.NET
+  [▒▒▒▒░░░░░░░░░░░░░░░░] 16% | Node OPC UA by example
   ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
