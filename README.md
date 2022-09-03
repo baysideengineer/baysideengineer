@@ -5,8 +5,6 @@
   ```
   [▒▒▒░░░░░░░░░░░░░░░░░] 14% | A short history of nearly everything
   
-  [▒▒▒▒░░░░░░░░░░░░░░░░] 20% | DONCS
-  
   [▒▒░░░░░░░░░░░░░░░░░░] 10% | Go - The practice book
   
   [▒▒░░░░░░░░░░░░░░░░░░] 7% | Linux the command line
