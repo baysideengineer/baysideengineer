@@ -5,7 +5,7 @@
   ```
   [▒▒▒░░░░░░░░░░░░░░░░░] 14% | A short history of nearly everything
   
-  [▒▒░░░░░░░░░░░░░░░░░░] 10% | Go - The practice book
+  [▒▒▒░░░░░░░░░░░░░░░░░] 11% | Go - The practice book
   ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
