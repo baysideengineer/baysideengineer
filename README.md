@@ -8,6 +8,8 @@
   [▒▒░░░░░░░░░░░░░░░░░░] 10% | Git
   
   [▒▒░░░░░░░░░░░░░░░░░░] 10% | Git
+  
+  [▒▒░░░░░░░░░░░░░░░░░░] 10% | Git
   ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
