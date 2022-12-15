@@ -5,7 +5,7 @@
     ```
     [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
-    [▒▒▒▒▒▒▒▒▒░░░░░░░░░░░] 44% | Next.js
+    [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░] 88% | Next.js
     ```
 
     > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
