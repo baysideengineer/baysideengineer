@@ -8,7 +8,4 @@
     [▒▒▒▒░░░░░░░░░░░░░░░░] 20% | Docker
     
     [▒▒▒░░░░░░░░░░░░░░░░░] 11% | Git
-    ```
-
-  > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
-    
+    > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
