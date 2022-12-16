@@ -3,11 +3,11 @@
   #### Reading list
 
     ```
-    [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
+  [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
-    [▒▒▒▒░░░░░░░░░░░░░░░░] 20% | Docker
+  [▒▒▒▒░░░░░░░░░░░░░░░░] 20% | Docker
     
-    [▒▒▒░░░░░░░░░░░░░░░░░] 11% | Git
+  [▒▒▒░░░░░░░░░░░░░░░░░] 11% | Git
     ```
 
   > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
