@@ -9,6 +9,8 @@
     
     [▒▒▒▒░░░░░░░░░░░░░░░░] 18% | Git
     
+    [▒▒░░░░░░░░░░░░░░░░░░] 8% | HTML
+    
     [▒▒▒▒▒░░░░░░░░░░░░░░░] 22% | The DevOps Career Handbook
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
