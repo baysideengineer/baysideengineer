@@ -7,6 +7,8 @@
     
     [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Docker
     
+    [▒▒▒░░░░░░░░░░░░░░░░░] 14% | Git
+    
     [▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 50% | The DevOps Career Handbook
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
