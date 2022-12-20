@@ -5,9 +5,7 @@
 
     [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
-    [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Docker
-    
-    [▒▒▒░░░░░░░░░░░░░░░░░] 14% | Git
+    [▒▒▒░░░░░░░░░░░░░░░░░] 11% | Docker
     
     [▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 50% | The DevOps Career Handbook
     
