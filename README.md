@@ -5,6 +5,8 @@
 
     [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
+    [▒▒▒▒░░░░░░░░░░░░░░░░] 20% | Docker
+    
     [▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 50% | The DevOps Career Handbook
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
