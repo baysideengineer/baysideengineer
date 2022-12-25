@@ -5,8 +5,4 @@
 
     [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
-    [▒▒▒▒▒▒░░░░░░░░░░░░░░] 26% | Terraform: Up and Running
-    
-    [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 34% | Visualizing Google Cloud
-    
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
