@@ -7,6 +7,6 @@
     
     [▒▒▒▒▒▒░░░░░░░░░░░░░░] 26% | Terraform: Up and Running
     
-    [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 39% | Visualizing Google Cloud
+    [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 34% | Visualizing Google Cloud
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
