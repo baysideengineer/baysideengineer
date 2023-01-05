@@ -5,6 +5,6 @@
 
     [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
     
-    [▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░] 52% | Docker
+    [▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░] 60% | Docker
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
