@@ -3,10 +3,6 @@
 
 #### Reading list
 
-    [▒░░░░░░░░░░░░░░░░░░░] 2% | A short history of nearly everything
-    
-    [▒▒░░░░░░░░░░░░░░░░░░] 8% | Continuous Deployment
-    
-    [▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░] 63% | Docker
+    [▒▒▒░░░░░░░░░░░░░░░░░] 13% | Continuous Deployment
     
 > Book updates via [Cloud Shortcut](https://github.com/saschazengler/progress_bar_shortcut)
