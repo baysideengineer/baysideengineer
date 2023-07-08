@@ -3,6 +3,6 @@
 
 #### Reading list
 
-    [▒▒▒░░░░░░░░░░░░░░░░░] 13% | Continuous Deployment
+    [▒▒▒░░░░░░░░░░░░░░░░░] 15% | Continuous Deployment
     
-> Updated March 25, 2023 11:43 am
+> Updated July 8, 2023 7:19 am
