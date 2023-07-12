@@ -5,6 +5,8 @@
 
     [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Continuous Deployment
     
+    [▒░░░░░░░░░░░░░░░░░░░] 4% | Test
+    
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 12, 2023 11:40 am
+> Updated July 12, 2023 1:48 pm
