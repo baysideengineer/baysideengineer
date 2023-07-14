@@ -3,10 +3,8 @@
 
 #### Reading list
 
-    [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░] 87% | Continuous Deployment
-    
-    [▒▒░░░░░░░░░░░░░░░░░░] 8% | Pro Git
-    
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 13, 2023 9:7 pm
+    [▒▒░░░░░░░░░░░░░░░░░░] 10% | dd
+    
+> Updated July 14, 2023 2:3 pm
