@@ -3,8 +3,8 @@
 
 #### Reading list
 
-    [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Continuous Deployment
+    [▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 47% | Continuous Deployment
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 15, 2023 4:02 pm
+> Updated July 15, 2023 4:04 pm
