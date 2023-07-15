@@ -3,7 +3,7 @@
 
 #### Reading list
 
-    [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Continuous Deployment
+    [▒░░░░░░░░░░░░░░░░░░░] 2% | Continuous Deployment
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
