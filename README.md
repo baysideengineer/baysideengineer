@@ -3,8 +3,10 @@
 
 #### Reading list
 
+    [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% | UML 2.0
+    
     [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 33% | Continuous Deployment
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 15, 2023 5:28 pm
+> Updated July 15, 2023 5:36 pm
