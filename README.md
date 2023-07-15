@@ -3,9 +3,7 @@
 
 #### Reading list
 
-    [▒▒▒▒▒░░░░░░░░░░░░░░░] 23% | UML 2.0
-    
-    [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 33% | Continuous Deployment
+    [▒▒▒▒▒░░░░░░░░░░░░░░░] 25% | Continuous Deployment
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
