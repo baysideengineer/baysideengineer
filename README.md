@@ -3,10 +3,10 @@
 
 #### Reading list
 
-    [▒▒▒▒▒▒░░░░░░░░░░░░░░] 28% | Continuous Deployment
+    [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 32% | Continuous Deployment
     
     [▒▒▒░░░░░░░░░░░░░░░░░] 12% | The DevOps Handbook
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 25, 2023 7:22 am
+> Updated July 25, 2023 7:50 am
