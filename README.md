@@ -5,8 +5,8 @@
 
     [▒▒▒▒▒▒░░░░░░░░░░░░░░] 28% | Continuous Deployment
     
-    [▒▒▒░░░░░░░░░░░░░░░░░] 11% | The DevOps Handbook
+    [▒▒▒░░░░░░░░░░░░░░░░░] 12% | The DevOps Handbook
     
     [▒▒▒▒▒▒▒▒░░░░░░░░░░░░] 38% | The Phoenix Project
     
-> Updated July 19, 2023 4:00 pm
+> Updated July 25, 2023 7:22 am
