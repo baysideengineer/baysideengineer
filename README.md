@@ -7,6 +7,6 @@
     
     [▒▒▒░░░░░░░░░░░░░░░░░] 12% | The DevOps Handbook
     
-    [▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░] 50% | The Phoenix Project
+    [▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░] 56% | The Phoenix Project
     
-> Updated September 6, 2023 9:42 am
+> Updated September 6, 2023 6:03 pm
