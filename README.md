@@ -5,10 +5,10 @@
 
     [▒▒▒▒▒▒▒░░░░░░░░░░░░░] 32% | Continuous Deployment
     
-    [▒▒▒▒░░░░░░░░░░░░░░░░] 19% | Docker: Up & Running
+    [▒▒▒▒▒░░░░░░░░░░░░░░░] 24% | Docker: Up & Running
     
     [▒▒▒░░░░░░░░░░░░░░░░░] 12% | The DevOps Handbook
     
     [▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░] 66% | The Phoenix Project
     
-> Updated November 13, 2023 7:14 pm
+> Updated November 14, 2023 5:58 pm
